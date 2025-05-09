@@ -133,3 +133,32 @@ body {
     display: inline-block; /* Correção para inline-block */
     margin-top: 1em;
 }
+@media screen and (max-width: 768px);
+
+
+    
+.container{
+    display: black;
+    background-image: none;
+}
+.container-imagem{
+    width: 50vw;
+}
+.dispositivo-lista{
+    display:block;
+}
+
+
+.container-caixa{
+    margin: 2em 2em;
+}
+.secundario{
+    margin:0;
+    text-align: center;
+.secundario-imagem{
+    width: 50vw;
+}    
+.rodape-lista{
+    display:block;
+}
+}
